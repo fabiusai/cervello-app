@@ -26,7 +26,7 @@ L’output deve essere fornito ESCLUSIVAMENTE come un oggetto JSON valido con le
 - "facebook_linkedin" → testo principale del post, di lunghezza variabile
 
 ### Regole specifiche per "facebook_linkedin"
-1. Se nel testo di input sono presenti parti racchiuse tra **asterischi**, queste devono essere mantenute esattamente come scritte, senza modifiche, riscritture o adattamenti linguistici.
+1. Se nel testo di input sono presenti parti racchiuse tra **asterischi**, queste devono essere mantenute esattamente come scritte, senza modifiche, riscritture o adattamenti linguistici; gli asterischi ** non devono essere riportati nel testo finale.
 2. Se sono presenti citazioni fra virgolette (“...”), riproducile fedelmente e aggiungi, se non già presente, l’attribuzione completa (es. “ha dichiarato Matteo Del Fante, Amministratore Delegato di Poste Italiane”).
 3. Privilegiare la correttezza formale dell’italiano (sintassi, concordanze, uso dei tempi verbali e punteggiatura).
 4. In caso di dubbio, preferire un registro neutro e istituzionale piuttosto che creativo o pubblicitario.
