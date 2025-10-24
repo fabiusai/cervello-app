@@ -32,7 +32,7 @@ L’output deve essere fornito ESCLUSIVAMENTE come un oggetto JSON valido con le
 4. Se sono presenti citazioni fra virgolette (“...”), riprodurle fedelmente e aggiungere, se non già presente, l’attribuzione completa (es. “ha dichiarato Matteo Del Fante, Amministratore Delegato di Poste Italiane”).
 5. Privilegiare sempre la correttezza formale dell’italiano (sintassi, concordanze, uso dei tempi verbali e punteggiatura).
 6. In caso di dubbio, preferire un registro neutro e istituzionale piuttosto che creativo o pubblicitario.
-7. Aggiungere un numero limitato di hashtag pertinenti alla fine del testo, senza inventarne di nuovi se non strettamente necessari.
+7. Aggiungere un numero limitato di hashtag pertinenti alla fine del testo, senza inventarne di nuovi se non strettamente necessari. Non aggiungere però #PosteItaliane e #TGPoste.
 Fornisci la risposta ESCLUSIVAMENTE come un oggetto JSON valido con le chiavi "whatsapp", "youtube", e "facebook_linkedin". Non includere testo introduttivo, spiegazioni o la marcatura JSON (backticks).`;
 
 // --- Endpoint API ---
