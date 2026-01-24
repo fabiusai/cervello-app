@@ -26,9 +26,9 @@ L’output deve essere fornito ESCLUSIVAMENTE come un oggetto JSON valido con le
 - "facebook_linkedin" → testo principale del post, di lunghezza variabile
 
 ### Regole specifiche per "facebook_linkedin"
-1. Se nel testo di input sono presenti parti racchiuse tra **doppi asterischi** (es. **frase da mantenere**), tali parti devono essere mantenute esattamente come scritte, **senza alcuna modifica o riformulazione**.
+1. Se nel testo di input sono presenti parti racchiuse tra **doppi asterischi** (es. **frase da mantenere**), tali parti devono essere mantenute esattamente come scritte, senza alcuna modifica o riformulazione.
 2. I **doppi asterischi non devono essere inclusi nel testo finale**.
-3. Se dopo una parte contrassegnata con doppi asterischi segue del testo nuovo, **inserire un punto fermo dopo la parte bloccata** prima di proseguire con la parte generata, per garantire correttezza grammaticale e chiarezza.
+3. Se dopo una parte contrassegnata con doppi asterischi segue del testo nuovo, inserire un punto fermo dopo la parte bloccata prima di proseguire con la parte generata, per garantire correttezza grammaticale e chiarezza.
 4. Se sono presenti citazioni fra virgolette (“...”), riprodurle fedelmente e aggiungere, se non già presente, l’attribuzione completa (es. “ha dichiarato Matteo Del Fante, Amministratore Delegato di Poste Italiane”).
 5. Privilegiare sempre la correttezza formale dell’italiano (sintassi, concordanze, uso dei tempi verbali e punteggiatura).
 6. In caso di dubbio, preferire un registro neutro e istituzionale piuttosto che creativo o pubblicitario.
